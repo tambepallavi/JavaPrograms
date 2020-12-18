@@ -1,0 +1,47 @@
+######################
+## Java
+######################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+#######################
+target/
+pom.xml.tag
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionBackup
+pom.xml.bak
+pom.xml.next
+release.properties
+dependancy-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+###############################
+## IntelliJ
+###############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nip
+local.properties
+.factorypath
